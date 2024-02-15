@@ -1,0 +1,27 @@
+/* Reset default styles */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add your custom styles here */
+p {
+    text-align: center;
+    margin-top: 18vh;
+    color: aqua;
+}
+
+h1 {
+	font-size: 5em;
+	font-weight: 900;
+	letter-spacing: -0.035em;
+	line-height: 1em;
+    text-align: center;
+    margin-top: 15vh;
+    color: #1b6063;
+}
+
+body {
+    background-color: #363636;
+    font-family: 'Roboto', sans-serif;
+}
